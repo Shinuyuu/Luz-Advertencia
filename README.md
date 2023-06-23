@@ -1,2 +1,2 @@
 # Luz-Advertencia
-Qual é a Comida que liga e Desliga? StrogonOFF
+Qual é a Comida que liga e Desliga? StrogONOFF
